@@ -1,4 +1,5 @@
-﻿const employers = ['Alex', '', 'ludmila', 'Viktor', '', 'oleg', 'iNna', 'Ivan', 'Alex', 'Olga', ' Ann'];
+﻿//пробую
+const employers = ['Alex', '', 'ludmila', 'Viktor', '', 'oleg', 'iNna', 'Ivan', 'Alex', 'Olga', ' Ann'];
 /*var employersNames = [];
 for (var i = 0; i < employers.length; i++) {
 	if (employers[i].length > 0 && employers[i].length != '') {
